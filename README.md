@@ -15,10 +15,10 @@ Note that the project already contains a ChromeDriver, but if you encounter any 
 To install the required dependencies for this project, use the following commands in the terminal:
 
 ```shell
-pip install beautifulsoup4
-pip install contractions
-pip install selenium
-pip install nltk
+$ pip install beautifulsoup4
+$ pip install contractions
+$ pip install selenium
+$ pip install nltk
 ```
 
 This will install the following packages:
