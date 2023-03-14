@@ -6,9 +6,9 @@ Here is the environment information for this project:
 - Operating system: Linux Ubuntu
 - Python version: 3.8.10
 - Chrome version: 111
-- ChromeDriver version: 111.0.5563.64
+- ChromeDriver version: 111
 
-Note that the project already contains a ChromeDriver, but if you encounter any issues, you can download the appropriate version of ChromeDriver for your system from the [official website](https://chromedriver.chromium.org/downloads).
+Note that the version of Chrome must match the version of ChromeDriver. The project already contains a ChromeDriver, but if you encounter any issues, you can download the appropriate version of ChromeDriver for your system from the [official website](https://chromedriver.chromium.org/downloads).
 
 ## Installation
 

@@ -1,6 +1,5 @@
 from collections import Counter
 import json
-import re
 import requests
 
 from bs4 import BeautifulSoup
@@ -12,7 +11,6 @@ from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 from selenium.webdriver.chrome.service import Service
 
 import nltk
-from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 
